@@ -2,7 +2,7 @@
 
 ## About the project
 
-**KASIO** is a collection of digital watchfaces inspired by classic Casio-style watches,
+**KASIO** is a collection of digital watchfaces inspired by classic retro-style watches,
 developed for **Samsung Tizen smartwatches**.
 
 All watchfaces are packaged as **.wgt** files and installed manually using
@@ -59,3 +59,4 @@ See the README inside your device folder for exact instructions.
 Disclaimer
 This project is not affiliated with Casio or any other brand or developer.
 KASIO is an original project inspired by classic digital watches.
+
